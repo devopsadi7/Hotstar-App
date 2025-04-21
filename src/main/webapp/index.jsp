@@ -31,7 +31,7 @@
 
         <div class="right-container">
             <input type="text" class="search-box" placeholder="search">
-            <button class="sub-btn">SUBSCRIBE</button>
+            <button class="sub-btn">SUBSCRIBE-now</button>
             <a href="#" class="login-link">login</a>
         </div>
     </nav>
